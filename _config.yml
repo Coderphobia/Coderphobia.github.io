@@ -60,4 +60,4 @@ plugins: [jekyll-paginate]
 paginate: 10
 port: 4001
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-architect
